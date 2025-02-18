@@ -54,7 +54,7 @@ Data Limitations: Some customer data was missing or inconsistent, requiring prep
 - Seasonality: Travel patterns may vary seasonally, which wasn't fully captured in this analysis.
 Credits
 
-## Data Source: Internal Travel_Tide user data
+## Data Source: Travel_Tide User Data
 
 - Explore the Results: The clusters and their key findings will be displayed as part of the output. Use the visualizations to understand customer segments.
 
