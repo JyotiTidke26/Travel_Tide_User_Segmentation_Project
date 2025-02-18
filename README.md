@@ -55,23 +55,8 @@ Data Limitations: Some customer data was missing or inconsistent, requiring prep
 Credits
 
 ## Data Source: Internal Travel_Tide user data
-Tools: Python libraries, K-Means, PCA, and Silhouette Score method
-How to Run the Code
-Clone the Repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/travel_tide-segmentation.git
-Install Dependencies: Use pip to install the necessary libraries.
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Analysis: Open the Jupyter notebook (Travel_Tide_Segmentation.ipynb) and execute the cells sequentially to replicate the analysis.
-
-Explore the Results: The clusters and their key findings will be displayed as part of the output. Use the visualizations to understand customer segments.
+- Explore the Results: The clusters and their key findings will be displayed as part of the output. Use the visualizations to understand customer segments.
 
 This README provides an overview of the Travel_Tide project, from the problem it addresses to the methodology used and recommendations for future work. By clearly communicating these elements, we aim to make the repository easy to navigate and understand for anyone reviewing the project.
 
