@@ -91,11 +91,10 @@ Data was collected from multiple sources and focused on session-level behavioral
 
 ---
 
-## 📈 Explore the Results
 
-The final clusters and visualizations can be viewed in the Jupyter Notebook:
+## 📓 Project Notebook
 
-```bash
-📁 notebooks/
-└── Travel_Tide_Customer_Segmentation.ipynb
+You can explore the full analysis and implementation in the Jupyter Notebook:  
+👉 [Mastery_Project_Travel_Tide.ipynb](./Mastery_Project_Travel_Tide.ipynb)
+
 
